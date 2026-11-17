@@ -9,10 +9,8 @@ requirements = python3,kivy,plyer,android
 orientation = portrait
 fullscreen = 0
 android.permissions = VIBRATE,WAKE_LOCK
-android.api = 31
+android.api = 33
 android.minapi = 21
-android.sdk = 30
-android.ndk = 23b
 android.archs = arm64-v8a
 
 [buildozer]
